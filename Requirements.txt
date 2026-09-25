@@ -10,3 +10,13 @@ psutil            # battery status, system info
 Pillow            # auto-screenshot (ImageGrab)
 pycaw             # volume control
 comtypes          # needed by pycaw (Windows)
+
+# AI
+google-genai
+python-dotenv
+
+# Voice
+SpeechRecognition
+PyAudio
+pyttsx3
+
