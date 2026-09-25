@@ -1,0 +1,12 @@
+# Smart Terminal Assistant - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core (required)
+requests          # for weather
+
+# Optional but recommended
+pyperclip         # copy/paste support
+psutil            # battery status, system info
+Pillow            # auto-screenshot (ImageGrab)
+pycaw             # volume control
+comtypes          # needed by pycaw (Windows)
